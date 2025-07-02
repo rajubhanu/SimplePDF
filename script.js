@@ -1,6 +1,6 @@
 
 
-const API_URL = "https://easypdf-9rhu.onrender.com/"; // Replace with your backend URL
+const API_URL = "https://easy2pdf.onrender.com"; // Replace with your backend URL
 let currentTool = "";
 const langToggle = document.getElementById('lang-toggle');
 const title = document.getElementById('title');
