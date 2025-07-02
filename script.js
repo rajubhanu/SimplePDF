@@ -1,5 +1,5 @@
 
-const API_URL = "https://your-backend-url.onrender.com"; // Replace this with real backend URL
+const API_URL = "https://easy2pdf.onrender.com"; // Replace this with real backend URL
 let currentTool = "";
 let currentLang = "en";
 
